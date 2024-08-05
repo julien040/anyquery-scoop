@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/julien040/anyquery/releases/download/0.1.0/anyquery_0.1.0_windows_amd64.zip",
+            "bin": [
+                "anyquery.exe"
+            ],
+            "hash": "ef8233b4cce01623c19e85db3d5710269d509cadff543747e6db196f30e5275e"
+        }
+    },
+    "homepage": "https://anyquery.dev",
+    "license": "AGPL-3.0",
+    "description": "Anyquery is a query engine that allows you to query anything over SQL."
+}
