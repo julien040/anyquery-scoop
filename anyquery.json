@@ -1,12 +1,12 @@
 {
-    "version": "0.4.2",
+    "version": "0.4.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/julien040/anyquery/releases/download/0.4.2/anyquery_0.4.2_windows_amd64.zip",
+            "url": "https://github.com/julien040/anyquery/releases/download/0.4.3/anyquery_0.4.3_windows_amd64.zip",
             "bin": [
                 "anyquery.exe"
             ],
-            "hash": "aaa5ef4c79bb04d14e8f2dad0bfbd41e053cca9205c1d8955158d5f63bdf3ba5"
+            "hash": "977340a6791aa19fceef6f31a1a2ca5ce1faba02ce645f6681d31bc03bbbca73"
         }
     },
     "homepage": "https://anyquery.dev",
